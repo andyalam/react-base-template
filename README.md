@@ -1,16 +1,10 @@
-React Base template
-===================
+# React Base Template
 
-This is a template for getting React up and running using Webpack.
+A basic React template that is setup to use Redux.
 
-Installation
---------------
-
-Run the following:
+### Getting Started
 
 ```
-npm install
-npm run dev
+> npm install
+> npm start
 ```
-
-Webpack will be running on localhost:8080
