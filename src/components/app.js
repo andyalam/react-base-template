@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
 
+import 'style/index';
+
 export default class App extends Component {
   render() {
     return (
-      <div>React simple starter</div>
+      <div>
+        <div className="stuff">React simple starter</div>
+      </div>
     );
   }
 }

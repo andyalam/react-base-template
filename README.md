@@ -8,3 +8,5 @@ A basic React template that is setup to use Redux.
 > npm install
 > npm start
 ```
+
+http://localhost:8080/webpack-dev-server/
